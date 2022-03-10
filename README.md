@@ -1,4 +1,8 @@
-### Hi there 👋
+### Howdy, I'm João Vítor Fernandes 👋
+
+- 🌎 Currently work providing DaaS solutions and developing ETL pipelines for Google's Knowledge Graph.
+- 👨‍🎓 Pursuing a bachelor's degree in computer science.
+- 🔭 Interested in data analysis, visualization and storytelling.
 
 <!--
 **jvitorfernandes/jvitorfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
