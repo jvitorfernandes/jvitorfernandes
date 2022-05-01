@@ -1,4 +1,4 @@
-### Howdy, I'm Vitor Fernandes 👋
+### Howdy, I'm João Vítor Fernandes 👋
 
 - 🌎 Currently providing DaaS solutions and developing ETL pipelines for Google's Knowledge Graph.
 - 👨‍🎓 Pursuing a bachelor's degree in computer science.
