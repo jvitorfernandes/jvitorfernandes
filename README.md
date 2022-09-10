@@ -1,4 +1,27 @@
+# Howdy, I'm João Vítor Fernandes 👋
+- 🌎 Currently working as a data engineer building systems and writing features for the Google Knowledge Graph.
+___
 
+Some of the projects I've built along the way:
+
+**Data Analytics**
+* Planoly ([view](https://github.com/jvitorfernandes/planoly-assessment)) - data analysis and exploration on an Amazon Redshift database.
+* OJO Labs (In Progress) -  data analysis using BigQuery and DataStudio.
+
+**Back End**
+* Habitat Energy ([source](https://github.com/jvitorfernandes/habitat-backend)) - getting data from an API using Python and SQL.
+* Twitter Bot ([source](https://github.com/jvitorfernandes/twitterBot)) - simple bot built with NodeJS.
+
+**Front End**
+* Caravan ([view](https://jvitorfernandes.github.io/Caravan/))([source](https://github.com/jvitorfernandes/Caravan)) - website built with Bootstrap 4.
+* Le Scone ([view]())([source](https://github.com/jvitorfernandes/Le-Scone)) - website styled using SASS.
+* Folha challenge ([view]())([source](https://github.com/jvitorfernandes/front-end-test)) - a challenge using Bootstrap and SASS.
+* Wikipedia Viewer([view]())([source](https://github.com/jvitorfernandes/freeCodeCampProjects)) - uses Javascript to reach Wikipedia's API and bring results to a minimalistic interface.
+* Random Quote Generator ([view]())([source](https://github.com/jvitorfernandes/freeCodeCampProjects)) - generates random quotes retrieved from an API.
+* Local Weather ([view]())([source](https://github.com/jvitorfernandes/freeCodeCampProjects)) - displays weather information based on user's location.
+
+**MISC**:
+* [All repositories](https://github.com/jvitorfernandes?tab=repositories)
 <!--
 **jvitorfernandes/jvitorfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
