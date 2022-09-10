@@ -1,5 +1,5 @@
 # Howdy, I'm João Vítor Fernandes 👋
-- 🌎 Currently working as a data engineer building systems and writing features for the Google Knowledge Graph.
+🌎 Currently working as a data engineer building systems and writing features for the Google Knowledge Graph.
 ___
 
 Some of the projects I've built along the way:
