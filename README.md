@@ -4,10 +4,6 @@ ___
 
 Some of the projects I've built along the way:
 
-**Data Analytics**
-* Planoly ([view](https://github.com/jvitorfernandes/planoly-assessment)) - data analysis and exploration on an Amazon Redshift database.
-* OJO Labs (In Progress) -  data analysis using BigQuery and DataStudio.
-
 **Back End**
 * Habitat Energy ([source](https://github.com/jvitorfernandes/habitat-backend)) - getting data from an API using Python and SQL.
 * Twitter Bot ([source](https://github.com/jvitorfernandes/twitterBot)) - simple bot built with NodeJS.
